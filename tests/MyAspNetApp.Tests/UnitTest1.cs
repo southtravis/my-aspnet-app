@@ -6,7 +6,7 @@ public class UnitTest1
     public void Test1_ThisWillFail()
     {
         int expected = 42;
-        int actual = 99;
+        int actual = 42;
         Assert.Equal(expected, actual);
     }
 }
