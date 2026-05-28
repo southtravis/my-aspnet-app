@@ -1,0 +1,4 @@
+wwwroot\forecast.html
+wwwroot\index.html
+C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\wwwroot\forecast.html
+C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\wwwroot\index.html
