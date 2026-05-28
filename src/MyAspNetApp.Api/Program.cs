@@ -3,6 +3,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+// Add MVC for server-rendered pages
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
@@ -13,6 +15,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+// Serve a default static index.html at the site root
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
 var summaries = new[]
 {
