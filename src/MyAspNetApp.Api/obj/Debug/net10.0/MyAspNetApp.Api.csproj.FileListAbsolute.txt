@@ -32,7 +32,6 @@ C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\MyAspNetApp
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\MyAspNetApp.Api.genruntimeconfig.cache
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\ref\MyAspNetApp.Api.dll
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\MyAspNetApp.Api.sourcelink.json
-C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\bin\Debug\net10.0\MyAspNetApp.Api.staticwebassets.runtime.json
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\compressed\9kgdkmifye-{0}-hm6nvhl1uf-hm6nvhl1uf.gz
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\compressed\moc4ez4c5u-{0}-pi0h31cjen-pi0h31cjen.gz
@@ -73,3 +72,4 @@ C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\bin\Debug\net10.0\runtimes\wi
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\MyAspNetApp.Api.RazorAssemblyInfo.cache
 C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\MyAspNetApp.Api.RazorAssemblyInfo.cs
+C:\Projects\CICD\my-aspnet-app\src\MyAspNetApp.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
